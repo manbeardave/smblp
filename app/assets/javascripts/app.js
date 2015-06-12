@@ -136,7 +136,7 @@ function menuRework(){
 		});
     
 		$(".logo_image").css({
-			"background-image":"url('http://i.imgur.com/3DBdYKg.png')",
+			"background-image":"url('https://i.imgur.com/3DBdYKg.png')",
       "width": "125px",
       "height": "30px"
       
@@ -151,7 +151,7 @@ function menuRework(){
 			"box-shadow": "none"
 		});
 		$(".logo_image").css({
-			"background-image":"url('http://i.imgur.com/KvDlKSg.png')",
+			"background-image":"url('https://i.imgur.com/KvDlKSg.png')",
       "width": "165px",
       "height": "50px"
 		});
