@@ -4,7 +4,7 @@ class SubscribersController < ApplicationController
   # GET /subscribers
   # GET /subscribers.json
   def index
-    @subscribers = Subscriber.all
+    @subscriber = Subscriber.new
   end
 
   # GET /subscribers/1
@@ -69,6 +69,6 @@ class SubscribersController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def subscriber_params
-      params[:subscriber]
+     params.require(:subscriber).permit(:email)
     end
 end
