@@ -659,12 +659,22 @@ img.thankyouimage {
   .header-slider .header-slider-phone {
     left: 64%;
   }
+  
+  
 }
+
+@media (max-width: 980px){
 .header-slider .header-slider-start {
   background-color: #222222;
-  margin-top: 150px;
+  margin-top: 450px !important;
   position: relative;
-}
+  }}
+  
+  .header-slider .header-slider-start {
+    background-color: #222222;
+    margin-top: 150px;
+    position: relative;
+    }
 .header-slider .header-slider-start .slider-left-over {
   left: 32%;
   width: 10%;
