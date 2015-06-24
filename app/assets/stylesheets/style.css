@@ -193,7 +193,7 @@ img {
   font-weight: 200;
   font-size: 40px;
   line-height: 50px;
-  color: #222222;
+  color: #003758;
   font-family: "Open Sans", sans-serif;
 }
 .sec-subtitle {
@@ -201,7 +201,7 @@ img {
   font-weight: 200;
   font-size: 26px;
   line-height: 36px;
-  color: #222222;
+  color: #003758;
   font-family: "Open Sans", sans-serif;
 }
 .centered-image {
@@ -217,7 +217,7 @@ img {
   font-weight: 200;
   font-size: 26px;
   line-height: 36px;
-  color: #222222;
+  color: #003758;
   font-family: "Open Sans", sans-serif;
 }
 .ico-text {
@@ -518,10 +518,10 @@ img.thankyouimage {
   box-shadow: inset 0 0 0 2px rgba(16, 16, 16, 0.6);
 }
 .swiper-active-switch {
-  box-shadow: inset 0 0 0 16px #222222;
+  box-shadow: inset 0 0 0 16px #003758;
 }
 .swiper-active-switch:hover {
-  box-shadow: inset 0 0 0 16px #222222;
+  box-shadow: inset 0 0 0 16px #003758;
 }
 .swiper-slide-active {
   position: relative;
@@ -644,7 +644,7 @@ img.thankyouimage {
 }
 /* HEADER - SLIDER */
 .header-slider {
-  background-color: #222222;
+  background-color: #003758;
   padding: 0;
   min-height: 100vh;
   overflow: hidden;
@@ -665,13 +665,13 @@ img.thankyouimage {
 
 @media (max-width: 980px){
 .header-slider .header-slider-start {
-  background-color: #222222;
+  background-color: #003758;
   margin-top: 450px !important;
   position: relative;
   }}
   
   .header-slider .header-slider-start {
-    background-color: #222222;
+    background-color: #003758;
     margin-top: 150px;
     position: relative;
     }
@@ -709,7 +709,7 @@ img.thankyouimage {
   width: 88%;
 }
 .header-slider .header-slider-start .slider-containt-tp {
-  background-color: #222222;
+  background-color: #003758;
   width: 32%;
 }
 @media (max-width: 1199px) {
@@ -723,7 +723,7 @@ img.thankyouimage {
   }
 }
 .header-slider .header-slider-start .slider-containt-tp .slider-text-and-pagination {
-  background-color: #222222;
+  background-color: #003758;
   left: 0;
   width: 80%;
 }
@@ -734,22 +734,22 @@ img.thankyouimage {
   color: #ffffff;
 }
 .header-slider .header-slider-start .swiper-container {
-  background-color: #222222;
+  background-color: #003758;
 }
 .header-slider .header-slider-start .sw1 {
-  background-color: #222222;
+  background-color: #003758;
 }
 .header-slider .header-slider-start .left-over {
-  background: linear-gradient(to right, #222222, rgba(34, 34, 34, 0.65));
+  background: linear-gradient(to right, #003758, rgba(0, 55, 88, 0.65));
 }
 .header-slider .header-slider-start .overlay {
-  background: linear-gradient(to right, rgba(34, 34, 34, 0.65), #222222);
+  background: linear-gradient(to right, rgba(0, 55, 88, 0.65), #003758);
 }
 .header-slider .header-slider-start .abb {
-  background-color: #222222;
+  background-color: #003758;
 }
 .header-slider .header-slider-start .ss1 {
-  background-color: #222222;
+  background-color: #003758;
 }
 @media (max-width: 991px) {
   .header-slider .header-slider-start .ss1 img {
@@ -784,7 +784,7 @@ img.thankyouimage {
   }
 }
 .ssp2.ssp2h {
-  background: #222222;
+  background: #003758;
   margin-top: 200px;
 }
 @media (max-width: 991px) {
@@ -796,25 +796,25 @@ img.thankyouimage {
   left: 42%;
 }
 .ssp2.ssp2h .left-over2 {
-  background: #222222;
+  background: #003758;
 }
 .ssp2.ssp2h .right-over2 {
-  background: #222222;
+  background: #003758;
 }
 .ssp2.ssp2h .left-over2-2 {
-  background: linear-gradient(to right, #222222, rgba(34, 34, 34, 0.65));
+  background: linear-gradient(to right, #003758, rgba(34, 34, 34, 0.65));
 }
 .ssp2.ssp2h .right-over2-2 {
-  background: linear-gradient(to right, rgba(34, 34, 34, 0.65), #222222);
+  background: linear-gradient(to right, rgba(34, 34, 34, 0.65), #003758);
 }
 .ssp2.ssp2h .tap2 {
-  background: #222222;
+  background: #003758;
 }
 .ssp2.ssp2h .sw2 {
-  background: #222222;
+  background: #003758;
 }
 .ssp2.ssp2h .ss2 {
-  background: #222222;
+  background: #003758;
 }
 .ssp2.ssp2h .swiper-active-switch {
   box-shadow: inset 0 0 0 16px #3b97d3;
@@ -1247,7 +1247,7 @@ img.thankyouimage {
 }
 .features-title {
   display: block;
-  color: #222222;
+  color: #003758;
   font-size: 20px;
   font-weight: 400;
   line-height: 30px;
@@ -1441,7 +1441,7 @@ img.thankyouimage {
   font-size: 32px;
   font-weight: 800;
   line-height: 42px;
-  color: #222222;
+  color: #003758;
   font-family: "Open Sans", sans-serif;
 }
 .f2-title {
@@ -1451,7 +1451,7 @@ img.thankyouimage {
   font-size: 26px;
   font-weight: 200;
   line-height: 36px;
-  color: #222222;
+  color: #003758;
   font-family: "Open Sans", sans-serif;
 }
 .f-text {
